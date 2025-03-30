@@ -16,5 +16,3 @@ This C# proof-of-concept (PoC) demonstrates a User Account Control (UAC) bypass 
 ## License
 Unlicensed—use at your own risk. No warranties.
 
-## Credits
-Assisted by Grok (xAI) for clarity.
