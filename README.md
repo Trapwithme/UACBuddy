@@ -4,7 +4,6 @@ This C# proof-of-concept (PoC) demonstrates a User Account Control (UAC) bypass 
 
 ## Overview
 - **What It Does:** Sets a registry key to point to this executable, triggers `computerdefaults.exe` to elevate it without a UAC prompt, then cleans up the registry.
-- **How to Use:** Compile `Z.cs` with Visual Studio or `csc Z.cs` to get `Z.exe`, then run it as a standard user.
 - **Result:** Opens an admin `cmd.exe` if the bypass succeeds.
 
 ## Disclaimer
